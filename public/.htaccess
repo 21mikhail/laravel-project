@@ -1,5 +1,5 @@
 Options +Indexes +FollowSymLinks +MultiViews
-deny from all
+
 <IfModule mod_rewrite.c>
     <IfModule mod_negotiation.c>
         Options -MultiViews
